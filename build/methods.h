@@ -1,0 +1,6 @@
+DEFINE_NEAR_METHOD(deposit)
+DEFINE_NEAR_METHOD(getAppointments)
+DEFINE_NEAR_METHOD(getPatient)
+DEFINE_NEAR_METHOD(registerPatient)
+DEFINE_NEAR_METHOD(scheduleAppointment)
+DEFINE_NEAR_METHOD(withdraw)
